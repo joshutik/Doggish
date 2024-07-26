@@ -1,0 +1,22 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+.bg-hero {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.556),rgba(0, 0, 0, 0.307)), url(./Assets/bg-Hero.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.card img {
+    height: 250px;
+}
+
+.con-bg {
+    background-image: url(./Assets/tobias-tullius-TiyCV-WrSxc-unsplash.jpg);
+    background-size: cover;
+    color: white;
+    background-attachment: fixed;
+}
